@@ -8,6 +8,13 @@
 &ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/mauri.7171/)
 
 &ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mauricio-miranda-13814b231/)
-
   
-
+<!-- Contribution graph -->
+<p justify-content="center">
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Dak4rPrO&theme=react-dark&custom_title=Contribution%20Graph">
+</p>
+<!-- stats profile -->
+<div align="justify">
+<img width="49%" src=https://github-readme-stats.vercel.app/api?username=Dak4rPrO&show_icons=true&theme=dark&custom_title=Dak4rPrO%20Github%20Profile>
+<!-- Top languages -->
+<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Dak4rPrO&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
