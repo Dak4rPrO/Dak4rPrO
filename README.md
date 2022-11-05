@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I'm currently studying Software Engineering at Holberton School.
+Software Engineer graduated from the prestigious Holberton School.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDak4rPrO&label=PROFILE%20VIEWS&labelColor=%23ff8a65&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDak4rPrO)
 
