@@ -18,6 +18,8 @@ Software Developer graduated from the prestigious Holberton School.
   <div align="center">
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Dak4rPrO&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
 
+[![trophy](https://github-profile-trophy.vercel.app/?Dak4rPrO=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    
   <!-- Contribution graph -->
 <p justify-content="center">
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Dak4rPrO&theme=react-dark&custom_title=Contribution%20Graph">
