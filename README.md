@@ -4,19 +4,17 @@
 
 Software Developer graduated from the prestigious Holberton School.
 
-<details>
-<summary><b><h2>Bio</h2></b></summary>
+<details align="left">
+<summary align="center"><b><h2>Biography</h2></b></summary>
 
-## From Uruguay. 
+### From Uruguay. 
 
-Self-taught developer; experience student; technology lover.
+​ Self-taught developer; experience student; technology lover.
 
-Interested in computer science and many other fields such as visual arts, sound design and composition, language, etc.
+​ Interested in computer technology in general and many other fields such as: web3, blockchain, visual arts, sound design and composition, english language, and a long etc.
 
-I use Github as version management,
-Storage of project resources,
-knowledge resources and social media platform for software developers.
-</details>
+​ I use Github to manage versions about my projects, storage,
+knowledge resources and sometimes as a social networking platform for software developers. </details>
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDak4rPrO&label=PROFILE%20VIEWS&labelColor=%23ff8a65&countColor=%23263759)
 
