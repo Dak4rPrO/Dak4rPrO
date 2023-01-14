@@ -4,6 +4,20 @@
 
 Software Developer graduated from the prestigious Holberton School.
 
+<details>
+<summary><b><h2>Bio</h2></b></summary>
+
+## From Uruguay. 
+
+Self-taught developer; experience student; technology lover.
+
+Interested in computer science and many other fields such as visual arts, sound design and composition, language, etc.
+
+I use Github as version management,
+Storage of project resources,
+knowledge resources and social media platform for software developers.
+</details>
+
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDak4rPrO&label=PROFILE%20VIEWS&labelColor=%23ff8a65&countColor=%23263759)
 
 [<img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/mauri.7171/)
