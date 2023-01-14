@@ -12,7 +12,6 @@ Software Developer graduated from the prestigious Holberton School.
   
 [<img align="center" src="https://img.shields.io/badge/Gmail-seashell?&style=for-the-badge&logo=gmail&logoColor=red" />](mailto:mauricio.miranda@holbertonstudents.com)
 
-
 <!-- Stats profile -->
 <div align="center">
 <img width="49%" src=https://github-readme-stats.vercel.app/api?username=Dak4rPrO&show_icons=true&theme=dark&custom_title=Mauricio%20Miranda%20Github%20Profile>
@@ -20,6 +19,9 @@ Software Developer graduated from the prestigious Holberton School.
 <!-- Top languages -->
 <div align="center">
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Dak4rPrO&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
+  
+<!-- Top languages -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dak4rPrO&theme=dark&custom_title" alt="Dak4rPrO" /></p>
 
 <!-- Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dak4rPrO" alt="Dak4rPrO" /></a> </p>
